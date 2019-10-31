@@ -1,0 +1,13 @@
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\NorthwindPersitance.deps.json
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\NorthwindPersitance.runtimeconfig.json
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\NorthwindPersitance.runtimeconfig.dev.json
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\NorthwindPersitance.dll
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\NorthwindPersitance.pdb
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.csprojAssemblyReference.cache
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.AssemblyInfoInputs.cache
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.AssemblyInfo.cs
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.dll
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.pdb
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\PersitanceModel.dll
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netcoreapp3.0\PersitanceModel.pdb
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netcoreapp3.0\NorthwindPersitance.csproj.CopyComplete

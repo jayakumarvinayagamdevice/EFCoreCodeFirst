@@ -1,0 +1,10 @@
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netstandard2.0\NorthwindPersitance.deps.json
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netstandard2.0\NorthwindPersitance.dll
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netstandard2.0\NorthwindPersitance.pdb
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.csprojAssemblyReference.cache
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.AssemblyInfoInputs.cache
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.AssemblyInfo.cs
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.dll
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.pdb
+D:\2019\October\Developing\Northwind\NorthwindPersitance\bin\Debug\netstandard2.0\NorthwindPersitance.dll.config
+D:\2019\October\Developing\Northwind\NorthwindPersitance\obj\Debug\netstandard2.0\NorthwindPersitance.dll.config
